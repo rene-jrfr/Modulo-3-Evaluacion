@@ -38,3 +38,8 @@ a{
   margin: 1em;
   text-align: center;
 }
+
+/* Prop. de Formulario */
+.img-user{
+  width: 80%;
+}
