@@ -2,3 +2,33 @@
 html{
   background: green;
 }
+
+a{
+  color: white;
+}
+
+
+/*Prop. de Logo */
+.logo-img{
+  width: 150px;
+}
+
+/* Prop. de Redes Sociales */
+.logo-rs{
+  width: 30px;
+  margin-bottom: 1em;
+}
+
+.logo-rs:hover{
+  opacity: 0.8;
+}
+
+/* Prop. de Barra Navegadora */
+.bar-nav{
+  background: red;
+}
+
+.nav-item:hover{
+  background: yellow;
+  color: black;
+}
