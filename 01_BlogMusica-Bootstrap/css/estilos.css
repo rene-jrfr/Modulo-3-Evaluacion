@@ -32,3 +32,9 @@ a{
   background: yellow;
   color: black;
 }
+
+/* Prop. de Articulo */
+.img-articulo{
+  margin: 1em;
+  text-align: center;
+}
