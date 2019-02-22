@@ -44,3 +44,10 @@ body{
 .articulo p{
   text-indent: 1em;
 }
+
+/* Prop. de Perfil */
+.perfil img{
+  width: 60%;
+  margin: 10px auto;
+  display: block;
+}
