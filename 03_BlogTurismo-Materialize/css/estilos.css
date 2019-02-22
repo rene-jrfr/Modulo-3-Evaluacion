@@ -15,3 +15,10 @@ body{
   z-index: -1;
   top: 0;
 }
+
+/* Prop. del Logo */
+.logo{
+  margin-top: 1em;
+  border-radius: 1em;
+  height: 160px;
+}
