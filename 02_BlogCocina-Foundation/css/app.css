@@ -52,3 +52,12 @@
   font-size: 0.7em;
   margin-bottom: 5px;
 }
+
+/* Prop. de Comentario */
+.comentario p{
+  display: inline;
+}
+
+.usuario{
+  color: #2980b9;
+}
