@@ -19,3 +19,8 @@
   color: white;
   border-right: 1px solid white;
 }
+
+/* Prop. de Panel */
+.panel{
+  background: rgba(255,255,255, 0.7);
+}
