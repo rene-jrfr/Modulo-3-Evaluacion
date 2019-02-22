@@ -22,3 +22,8 @@ body{
   border-radius: 1em;
   height: 160px;
 }
+
+/* Prop. de Navegación */
+.bar-nav a{
+  margin-top: 1em;
+}
