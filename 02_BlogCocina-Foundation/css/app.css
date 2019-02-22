@@ -35,3 +35,12 @@
   flex: auto;
   width: 30%;
 }
+
+/* Prop. de Articulos */
+.articulos{
+  background: #fadbd8;
+}
+
+.fecha{
+  color: #e63269;
+}
