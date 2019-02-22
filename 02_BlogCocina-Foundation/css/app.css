@@ -24,3 +24,8 @@
 .panel{
   background: rgba(255,255,255, 0.7);
 }
+
+/* Prop. de Lista */
+.lista{
+  margin: 1px;
+}
