@@ -34,3 +34,13 @@ body{
   margin-bottom: 1.5em;
   border-radius: 0.5em;
 }
+
+/* Prop. de Articulo */
+.articulo img{
+  width: 150px;
+  margin-right: 0.5em;
+}
+
+.articulo p{
+  text-indent: 1em;
+}
