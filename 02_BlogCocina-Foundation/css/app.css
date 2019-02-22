@@ -1,0 +1,10 @@
+/* Prop. Generales */
+.blog-body{
+  background-image: url(../img/cocina.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
