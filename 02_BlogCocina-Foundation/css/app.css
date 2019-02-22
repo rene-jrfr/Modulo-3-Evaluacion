@@ -29,3 +29,9 @@
 .lista{
   margin: 1px;
 }
+
+/* Prop. de Favoritos */
+.fav img{
+  flex: auto;
+  width: 30%;
+}
