@@ -44,3 +44,11 @@
 .fecha{
   color: #e63269;
 }
+
+/* Prop. de Form. Comentario */
+.comentario{
+  border: 1px solid gray;
+  border-radius: 3px;
+  font-size: 0.7em;
+  margin-bottom: 5px;
+}
